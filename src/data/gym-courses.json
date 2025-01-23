@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner's Weightlifting",
+        "slug": "beginners-weightlifting",
+        "description": "Learn the fundamentals of weightlifting with step-by-step guidance for beginners.",
+        "price": 99.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "/courses/weightlifting.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Yoga for Flexibility",
+        "slug": "yoga-for-flexibility",
+        "description": "Improve your flexibility and balance with this comprehensive yoga course.",
+        "price": 89.99,
+        "instructor": "Jane Doe",
+        "isFeatured": false,
+        "image": "/courses/yoga.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Strength Training",
+        "slug": "advanced-strength-training",
+        "description": "Enhance your strength and muscle mass with advanced techniques and routines.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/strength.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Cardio Mastery",
+        "slug": "cardio-mastery",
+        "description": "Master your cardiovascular health with tailored workouts for all levels.",
+        "price": 79.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/cardio.jpg"
+      },
+      {
+        "id": 5,
+        "title": "HIIT Workouts",
+        "slug": "hiit-workouts",
+        "description": "Burn fat and boost endurance with high-intensity interval training.",
+        "price": 99.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/hiit.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Nutrition for Fitness",
+        "slug": "nutrition-for-fitness",
+        "description": "Learn how to fuel your body for optimal performance and recovery.",
+        "price": 109.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/nutrition.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Functional Training",
+        "slug": "functional-training",
+        "description": "Improve your everyday movements with this functional fitness program.",
+        "price": 89.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/functional.jpg"
+      },
+      {
+        "id": 8,
+        "title": "CrossFit Basics",
+        "slug": "crossfit-basics",
+        "description": "Dive into the world of CrossFit with this beginner-friendly course.",
+        "price": 129.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/crossfit.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Mobility and Recovery",
+        "slug": "mobility-and-recovery",
+        "description": "Enhance your recovery with mobility exercises and relaxation techniques.",
+        "price": 79.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/mobility.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Powerlifting Techniques",
+        "slug": "powerlifting-techniques",
+        "description": "Master the art of powerlifting with in-depth guidance and techniques.",
+        "price": 149.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/powerlifting.jpg"
+      }
+    ]
+  }
+  
