@@ -9,7 +9,7 @@ const words = "Master the Art of Fitness"
 
 function HeroSection() {
   return (
-    <div className="h-auto md:h-[50rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0">
+    <div className="h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto pt-60">
       <Spotlight/>
       <div className="p-4 relative z-10 w-full text-center">
       <TextGenerateEffect words={words} />

@@ -17,7 +17,7 @@
         "description": "Improve your flexibility and balance with this comprehensive yoga course.",
         "price": 89.99,
         "instructor": "Jane Doe",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "/courses/yoga.jpg"
       },
       {
