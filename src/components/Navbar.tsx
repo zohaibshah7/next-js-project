@@ -41,6 +41,20 @@ function Navbar({ className }: { className?: string }) {
             item="Featured Courses"
           ></MenuItem>
         </AnchorLink>
+        <AnchorLink href="#choose">
+          <MenuItem
+            setActive={setActive}
+            active={active}
+            item="Choose Us"
+          ></MenuItem>
+        </AnchorLink>
+        <AnchorLink href={"#testimonials"}>
+          <MenuItem
+            setActive={setActive}
+            active={active}
+            item="Testimonials"
+          ></MenuItem>
+        </AnchorLink>
         <AnchorLink href={"/contact"}>
           <MenuItem
             setActive={setActive}
