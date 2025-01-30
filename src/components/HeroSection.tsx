@@ -15,7 +15,7 @@ function HeroSection() {
       <TextGenerateEffect words={words} />
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Dive into our expert-led fitness courses and transform your fitness
-          journey today. Whether you're a beginner or an advanced athlete, join
+          journey today. Whether you&apos;re a beginner or an advanced athlete, join
           us to unlock your true potential.
         </p>
         <div className="mt-4">
