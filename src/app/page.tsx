@@ -3,6 +3,7 @@ import FeaturedCourses from "@/components/FeaturedCourses";
 import Footer from "@/components/Footer";
 import ChooseUs from "@/components/ChooseUs";
 import GymTestimonials from "@/components/TestimonialCards";
+import GymSchoolContactUs from "@/components/ContactUs";
 
 export default function Home() {
     return (
@@ -11,6 +12,7 @@ export default function Home() {
             <FeaturedCourses/>
             <ChooseUs/>
             <GymTestimonials/>
+            <GymSchoolContactUs/>
             <Footer/>
         </main>
     )
