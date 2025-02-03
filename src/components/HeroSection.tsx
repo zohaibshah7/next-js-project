@@ -14,7 +14,7 @@ function HeroSection() {
       <div className="p-4 relative z-10 w-full text-center">
       <TextGenerateEffect words={words} />
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Dive into our expert-led fitness courses and transform your fitness
+          Dive into our expert fitness courses and transform your fitness
           journey today. Whether you&apos;re a beginner or an advanced athlete, join
           us to unlock your true potential.
         </p>
